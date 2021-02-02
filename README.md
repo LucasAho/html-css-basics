@@ -1,2 +1,2 @@
 # html-css-basics
-Remaking the very first 
+Remaking the very first homework for a refresher on basics
